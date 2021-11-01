@@ -1,4 +1,6 @@
 const add = require("./add");
+// const storageExample = require("./storageExample");
+// storageExample();
 
 let lastLastScore = 0;
 let lastScore = 1;
