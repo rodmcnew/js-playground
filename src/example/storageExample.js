@@ -11,3 +11,8 @@ const storageExample = async () => {
 }
 
 module.exports = storageExample;
+
+
+// EXAMPLE USAGE BELOW
+// const storageExample = require("./storageExample");
+// storageExample();
